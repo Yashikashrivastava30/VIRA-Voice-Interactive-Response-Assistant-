@@ -30,7 +30,7 @@ def listen_for_exit():
                 break
 
 # Show the image in full screen
-img = cv2.imread(r"C:\Users\Dheeraj\OneDrive\Desktop\viraji.png.png")
+img = cv2.imread(r" PASTE THE PATH OF THE IMAGE SAVE IN YOUR SYSTEM")
 if img is None:
     print("Image not found!")
     exit()
